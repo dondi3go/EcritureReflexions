@@ -10,3 +10,9 @@ Comment Lire, cours 6
 Séminaire du 23 janvier 2024 : Pour Carlo Emilio Gadda
 Intervenant : Philippe Bordas, photographe et écrivain
 https://www.youtube.com/watch?v=9kThSqT5VbE
+
+Du francais
+-----------
+Genre xxx
+en mode xxx
+je suis team xxx

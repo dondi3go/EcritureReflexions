@@ -22,12 +22,41 @@ La nouvelle question qu'il doit se poser :
 QQn met en vente des chaises de créateur. 
 Une acheteuse appelle. Ils se rencontrent.
 
+## Rencontre entre professeur et éléve
+Dans une pizzeria, un professeur est convaincu qu'une personne a été son élève.
+Quand on part sur la parking ma mère me dit que la table dans un coin de la salle
+c'était des profs. J'y retourne. Des profs de lycée. Je ne démens pas, mais je n'en ai aucun souvenir.
+Après reconstitution, je ne l'ai pas eu comme professeur.
+Va à l'encontre des retrouvailles entre prof et élève.
+L'élève peut jouer le jeu.
+En tout cas ok pour le principe où une situation se développe en une autre situation,
+c'est à dire repas à la pizzeria en famille devient une rencontre triste et bizarre
+
 ## L'auteur qui a trouvé la recette
 Une nouvelle manière d'écrire les histoires.
 Parmi toutes les manières d'écrire une histoire.
 C'est souvent abstrait et difficile à appliquer. Un peu mécanique. Là non. Je suis devenu riche avec cette formule. COmme toute chose vraiment efficace, elle est simple. Elle est aussi évidente une fois formulée. Mais difficile à voir sans quelqu'un qui met sur la piste.
 Parler des recettes existantes. Relire Martin Eden.
 Un peu comme le motif dans le tapis.
+
+## Le moisi qui se transforme en Coccinelles
+Florence stresse parce qu'il y a des point noirs dans les coins des parties communes.
+On achète ue échelle téléscopique. Il s'agit de coccinelles (couleur foncée).
+
+## L'homme qui meurt
+Homme en sédation profonde. Il a toute l'apparence d'être inconscient, dont une paupière mal fermée qui regarde dans le vide ou qui regarde la personne assise sue la chaise à côté. Le seul symptôme qu'il est vivant, c'est sa poitrine qui se soulève régulièrment.
+Il est sous oxygène, il a une pompe à morphine. Il reprend conscience à une moment. S'agit-il de la terminal lucidity ?
+"Vous croyez qu'il entend", "je ne sais pas, dans le doute je fais comme s'il entend".
+Il entend tout ce qui se dit autour de lui. Et il se dit beaucoup de choses.
+Certains récontent des anecdotes.
+D'autres médisent.
+On parle d'argent.
+Et de l'organisation des obsèques.
+-- a l'église
+-- pour la banque, les comptes sont bloqués pour six mois
+-- les livres "je sais qu'il aurait voulu que je les ai"
+-- l'appartement
+-- pour le côté médical : sédation profonde ou pompe à insuline en continu ?
 
 ## La conversation
 Il y a longtemps que je voulais te parler.
@@ -120,7 +149,15 @@ Mais ce n'était pas elle.
 -- On se connaitrait
 -- Voilà, on se serait déjà rencontré il y a longtemps
 -- On se dirait quoi ?
--- Il y en aurait un qui serait passé à autre chose et l'autre qui serait mort de peur
+-- Il y en aurait un qui dirait qu'il serait passé à autre chose et l'autre qui serait mort de peur
+    -- on peut se raconter deux histoires incompatibles en même temps
 -- Quelque chose reviendrait comme un boomerang avec un gout de madeleine
 -- Celui qui serait passé à autre chose se ferait prendre à revers, quand à l'autre, le mort de peur, en fait la confiance le gagne, quand il voit que l'autre est vulnérable.
 -- La vulnérabilité, c'est ce qu'il y a de plus beau.
+
+## Résidence d'auteur
+La résidence sert à sélectionner des auteurs pour déterminer celui qui a le profil pour ... (entendu dans une vidéo ou apparait un certain PATRICK PELLETIER). Les sujet proposés sont en fait des tests. 
+
+
+## TITRES DE LIVRES
+* RADIO MOQUETTE
