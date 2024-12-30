@@ -28,8 +28,8 @@ Ce sujet ne recoupe pas le sujet de l'homme vs l'oeuvre.
 ---
 
 Varlam Chalamov, Récits de la Kolyma (Cours 12)
-Ragment : "A propos d'une faute commise par la littérature"
-La littérature de fiction a toujours représenté le monde des criminels avec sympathie, parfois avec complaisance. Elle a paré la pègre d'une aura romantique, se laissant séduire par son cliqunt de pacotille. Les artistes n'ont pas su discerner le véritable et troublant univers, c'est un péché pédagogique, une erreur que notre jeunesse paie très cher.
+Fragment : "A propos d'une faute commise par la littérature"
+La littérature de fiction a toujours représenté le monde des criminels avec sympathie, parfois avec complaisance. Elle a paré la pègre d'une aura romantique, se laissant séduire par son cliquant de pacotille. Les artistes n'ont pas su discerner le véritable et troublant univers, c'est un péché pédagogique, une erreur que notre jeunesse paie très cher.
 
 Des représentations qui ont un effet sur le réel.
 "Dupes de Satan"
@@ -38,17 +38,10 @@ Varlam Chalamov est cité par Roberto Saviano.
 
 ---
 
-Maxime Decout
-
-
----
-
-REFERENCE
+REFERENCES
 
 Cours 10
 Enseignement 2023-2024 :  Comment lire ?
 Séminaire du 06 février 2024 : Corriger / annuler / purger le mal dans la fiction : résurgence d’un platonisme anti-aristotélicien ?
 Intervenant : Guillaume Navaud, Lycée Henri-IV
 https://www.youtube.com/watch?v=n521v92YY10
-
-Cours 

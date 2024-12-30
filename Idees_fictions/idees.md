@@ -58,6 +58,11 @@ Et de l'organisation des obsèques.
 -- l'appartement
 -- pour le côté médical : sédation profonde ou pompe à insuline en continu ?
 
+(pourrait être écrit à la première personne)
+
+## Eloge funèbre 
+Aux obsèques, la personne qui parle est ivre.
+
 ## La conversation
 Il y a longtemps que je voulais te parler.
 Tu préfères une conversation mondaine ou une vraie conversation ?
@@ -120,11 +125,13 @@ Breton (1928) : RIen ne sert d'être vivant le temps qu'on travaille. L'événem
 
 Vian (1953) : Je ne veux pas gagner ma vie, je l'ai. (L'écume des jours)
 
-Ajouter Blaise Cendrar sur les gens qui prennent le métro.
+Ajouter Blaise Cendrar sur les gens qui prennent le métro. Annexe de Moravagine ?
 
 (#travail)
 
 Le sentiment de "se faire avoir". Que quelqu'un profite de son travail. Il y a une nette différence entre travailler pour soi et travailler pour quelqu'un d'autre. Ce quelqu'un d'autre s'enrichit sur notre dos.
+
++ otium, cf Hannah Arendt
 
 ## Salon du livre
 -- Votre visage me rapelle qqn que j'ai connu il y a longtemps.
@@ -158,6 +165,62 @@ Mais ce n'était pas elle.
 ## Résidence d'auteur
 La résidence sert à sélectionner des auteurs pour déterminer celui qui a le profil pour ... (entendu dans une vidéo ou apparait un certain PATRICK PELLETIER). Les sujet proposés sont en fait des tests. 
 
+## Un être humain sans histoire
+A partir du livre de Camille de Toledo, imaginer un être humain qui voudrait se passer
+de la surcouche narrative que chacun ajoute à la vie, par dessus le monde.
+Ne plus "se la raconter". Quoi ? Sa vie. A la place, la vivre pour de bon.
+Le "surcroit" dont parle Proust (j'invente ce mot, retrouver la citation)
+Addition ou illusion ?
+"Tu maintiens le monde"
+"Ceux qui veulent te visser une idée dans la tête" Achète ce hamburger.
+On protège les enfants, mais les esprits, non.
+On abuse.
+
+Ceux qui ont une prétention au réel.
+Inventaire de toutes les expressions.
+- Politiques
+- Publicitaires
+- Médiatiques
+- Travail
+- Amis
+La prétention au vrai, qui est une extension du domaine de l'enfumage.
+Un autre opium, comme l'a étét la religion, qui a provoqué tant de guerre.
+Déradicalisétion ? Déradicaliser tous ceux qui ne sont pas d'accord avec nous.
+Les think tank.
+Bien / pas bien : les bons refrains et les mauvais refrains.
+Le bon bourage de crâne et le mauvais bourrage de crâne.
+
+S'en protéger, de ces batteleurs. Comment ? Les ignorer.
+La lutte pour l'attention ? La gagner seule.
+Ne plus écouter qui que ce soit me "bourrer le crâne", ou me "laver le cerveau".
+**Le voeux de surdité** comme d'autres font veux de silence.
+
+Parler de Donc Quixotte, et de Bovary. Aveuglement ou intoxication consentie ?
+Il est de bon ton dans les milieux littéraires de présenter ces personnages comme des personnages 
+fantasques et en quelque sorte "libérés". Leurs illusions ne sont après tout pas plus délirantes
+que bien d'autres.
+Vis ta vie comme elle te convient, vis tes "rêves".
+Putain, le rève.
+
+La caractéristique de la bourgeoisie : préserver les apparences. Cf l'ordre du jour.
+Nous ne sommes pas des monstres. Nous sommes les gens biens. Honorables, respectables.
+Nous sommes le gens compétents. Notre place dans la société est justifiée, méritée. 
+L'argent que je gagne reflète la valeur de ma contribution à la société.
+
+Homo narrans :
+Kurt Ranke in a paper published in 1967
+
+L'écart entre fiction et réalité : cf Laurent Binet dans "HHHhH" p15
+"Cette histoire dépassait en romanesque et en intensité les plus improbables fiction"
+
+Refs :
+- Nancy Huston, l'espèce fabulatrice
+    "pulsion psychologique infantile"
+- Hariri, les récit qui fédèrent
+    "Construction de humanité" ... et vers la destruction de l'humanité
+- Camille de Toledo, Le vertige
+    "Aveuglement"
+- La société du spectacle
 
 ## TITRES DE LIVRES
 * RADIO MOQUETTE
