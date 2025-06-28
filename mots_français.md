@@ -5,6 +5,8 @@ Trouver ce bouquin ...
 
 Procéder de : Tirer son origine de, résulter, provenir de.
 
+Allongeails de Montaigne (rajouts dans les marges de l'édition de Bordeaux) sont comme les paperolles de Proust.
+
 puise, puiser
 complice
 troquer
@@ -30,3 +32,7 @@ empêtrement
 Cf livre de Stephen Pinker, The Sense of Style
 
 incursion
+
+chérir : "dont ils chérissent les causes"
+
+amplifier

@@ -25,6 +25,11 @@ de ouf
 guedin
 déglingo
 
+Pour dire oui
+carrément
+tellement
+grave (mais grave)
+
 ponctuation verbale forcenée
 du coup, vraiment, voilà, justement, donc euh
 une série de "du coup" partout, puis une série de "justement" partout, puis une série de "donc euh" partout.
