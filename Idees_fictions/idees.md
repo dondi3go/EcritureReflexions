@@ -133,6 +133,8 @@ Breton (1928) : RIen ne sert d'être vivant le temps qu'on travaille. L'événem
 
 Vian (1953) : Je ne veux pas gagner ma vie, je l'ai. (L'écume des jours)
 
+Debord : Ne travaillez jamais
+
 Ajouter Blaise Cendrar sur les gens qui prennent le métro. Annexe de Moravagine ?
 
 (#travail)
@@ -142,6 +144,7 @@ Le sentiment de "se faire avoir". Que quelqu'un profite de son travail. Il y a u
 + otium, cf Hannah Arendt
 
 + ce qui est écrit au dessus du portail d'Auswitch et ce que décrit Shalamov en arrivant à la Kolima.
+Dans "Les larmes de Chalamov" de Gisèle Bienne, "Le travail est affaire d'honneur, de gloire, de vaillance et d'héroisme." p29
 
 ## Salon du livre
 -- Votre visage me rapelle qqn que j'ai connu il y a longtemps.
@@ -321,7 +324,9 @@ Au centre ... un vaisseau spatial. Métal amorphe. Des signes inconnus. Le logo 
 - Il doit y avoir un aspect politique (Les Etats-Unis réclament leur bien, tandis que la nation du territoire exige sa souveraineté)
 - Un aspect humain (quel personnage, coupé des siens en raison de l'enjeu, enlevé peut-être)
 - Un aspect spéculatif, au sujet des boucles temporelles.
-Voir la page wikipedia au sujet des paradoxes temporels
+Voir la page wikipedia au sujet des *paradoxes temporels* et des *voyages dans le temps*.
+Des exécutions, parce que c'est trop touchy, paradoxe du grand-père.
+Voire : une bombe atomique est détonnée sur le site, personne ne doit approcher.
 
 ## TITRES DE LIVRES
 * RADIO MOQUETTE

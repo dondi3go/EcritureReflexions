@@ -49,9 +49,16 @@ J'aimerais pouvoir faire les choses suivantes :
 * Avoir des statistiques
 
 
-## Makefile ou alias
+## Alias
 
-Ajouter ou bien des alias pour se simplifier la vie :
+Ajouter des alias pour se simplifier la vie.
+
+###
+Dans c:/users/<username>/.bashrc
+
+alias cdiff='git diff HEAD@{1} --word-diff=color'
+alias cgrep='grep --color -n'
+
 * Commande *git*
 * Commande *doc* + *typst*
 * Commande *grep*, *fgrep*, etc
