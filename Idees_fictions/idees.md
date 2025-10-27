@@ -287,20 +287,82 @@ Refs :
 - L'esprit du capitalisme ?
 
 ## L'Aquarium des petits dieux
-Quelqu'un qui explique aimer les maquettes.
+Quelqu'un qui explique aimer les maquettes. Dioramas. Modèles réduits.
+Miniatures. Maisons de poupée. Aquqarium ou vivarium ?
 (Quel auteur aimait les maquettes ? Il me semble avoir lu ça.)
 Fabriquer des dioramas. Des scènes complètes, avec de la vraie végétation.
 Des lampes qui maintiennent la température. Et l'humidité. Un monde en vase clos.
 Un monde. Qu'on peut admirer de l'extérieur. Dont on est le démiurge, et celui qui nettoie.
 Un aquarium : Plantes + Poissons.
-UNe ferme de fourmie. Une colonie d'abeille.
-Recréer la vie ... Avec des électrode et des principes
-Des sachets d'acides anminés. Des lampes qui font des éclairs.
+Une ferme de fourmie. Une colonie d'abeille.
+(Recréer la vie ... Avec des électrode et des principes
+Des sachets d'acides anminés. Des lampes qui font des éclairs.)
 
 Bientôt un petit dieu. Qui ne règne sur rien. Mais qui maîtrise la foudre.
 
 Un dieu qui s'enfuit. Et que l'homme cherche partout. Je t'ai créé connard.
 Tu me dois respect et obéissance.
+
+Le point de départ ? Un événement qui lui fait créé une maquette ...
+Un stage d'autohypnose qualité de vie, stress, controle de ses émotions.
+Un lieu, un refuge.
+La voix nous demande de le visualiser, ses détails, la texture de ses matériaux, l'atmosphère, les sons qui émanent de cet endroit.
+Un cloitre. Un cloitre miniature. Fermé et non fermé. Murs.
+Ce cloitre je le porte.
+Je marche lentement dans la gallerie, le m'assois sur le muret de la cour. L'herne qui pousse, les oiseaux qui se posent dur les tuiles. En général il y fait beau. Parfois il pleut.
+Chaque fois que j'ai besoin de méloigner de ce monde, que je ne comprends plus rien, un soup de stress, je vais à cet endroit, ce cloitre, et je respire à nouveau, la sérénité. La chaleur. Le calme. J'y vais en pensée. Je le vois.
+Puis un jour j'ai envie qu'il existe.
+Je le dessine, je ne suis pas satisfait du résultat. Je fais une maquette en papier.
+Effet surplombant. La maquette n'est pas très bonne.
+
+La progression : d'abord de petits paysages, puis des bonsais, puis des scènes, puis CRISPR pour rendre les bonzais plus intéressants (qqch que ne font pas les bonsais : le saule pleureur - avec une biyclette appuyée contre le tronc -, le mélèze), puis des champignons qui brillent dans le noir, et devant cette "crèche", des druides devant une pierre levée, dans le noir, avec les champignpn qui brillent. Les limites sont beaucoup plus éloignées. Des méduses qui brillent dans le noir, dans une citée engloutie. Des mondes miniatures. L'échelle ? Des boites sur les murs qui donnent sur d'autres mondes.
+
+Il crée un décors Arcadie, avec des ruines et des plantes. Rassurant, édénique.
+Du lierre miniature, qui change de couleur en couleur en fonction de latempérature.
+Il n'y a plus qu'à faire varier les saisons, avec quelques lampes reliées à un microcontroleur.
+je contemple et c'est beau.
+Il manque quelque chose. Une absence. Civilisation disparue ? 
+Déchirant. La mort. Des vies disparues. Des voix qui se sont tues.
+
+LA CREATION DU PETIT DIEU
+un etre vivant
+
+Il cuisine pour son petit dieu. Des petits légumes. S'il ne le nourrit pas. Le petit dieu devient gris.
+Et des moutons qu'il ramasse à la pince à spaghetti.
+Le petit dieu s'ennuie.
+Il lui crée une compagne. (hétéronormé..) 1 compagnon et deux compagnes.
+Ils s'accouplent, se lancent des boules de feu. Font des enfants.
+Le chat en tue un . Le chat est retrouvé mort.
+il y en a qui s'enfuient.
+Réunion de copropriété ... des souris, un exterminateur vient.
+Les petits dieux s'enfuient. Il ne les voit plus. La nourriture qu'il laisse n'est pas mangée.
+Il cherche à l exterieur.
+
+Pendant plusieurs mois. Il n'entend plus parler (il les croit morts). 
+Il reprend ses dioramas. Le saule. Les méduses. 
+Ils n'ont plus le même effet apaisant.
+
+La question : que se passe-t'il quand le petit dieu s'enfuit ?
+D'ailleurs, un seul ou bien plusieurs ?
+Il est vénéré quelque part, il recrée à son tour des dieux ?
+On parle d'une ile dévorée par les fourmis rouges, qui ne sont que les adorateurs du petit dieu.
+Que font-ils sur cette ile ? Et comment le créateur vit-il cette situation ?
+(Est-ce qu'il faut que je fasse du psychologique ? Ou bien de l'action, de l'action, de l'action)
+
+La vraie question : quel est le sujet de cette histoire ? De quoi j'ai envie de parler ? 
+Les mondes = ceux des livres, soit. Le lecteur peut surplomber l'un d'eux. Soit.
+
+Mais ce dieu qui s'enfuit ? Et qui fait quoi ?
+1/ Une question d'échelle, le petit dieu construit lui même des dioramas et règne sur des petits mondes.
+   Le créateur scrute le monde étoilé au-dessus de sa tête...
+   Il regarde à la télévision.
+2/ Le créateur se retrouve dans une résidence surveillée.
+   A son tour il est comme dans une boite. Il regarde les caméras.
+
+Partie 1 : le héros déprime à cause de l'état du monde, il fait des dioramas
+Partie 2 : Ses dioramas sont de plus en plus sophistiqué, il fait des êtres vivants, l'un d'eux s'enfuit
+Partie 3 : La créature conquiert le monde, à la fin le héros est en résidence surveillée dans une base militaire
+Partie 4 : Les créatures submergent les armées du monde, la créature se retrouve face à son créateur
 
 ## Les mamifères atmosphériques
 Commence au centre commercial les quatre temps. Et se poursuit dans d'autres lieux contemporains.
@@ -314,7 +376,7 @@ D'autres tribus font les rituels d'une civilisation disparue.
 Ils font des files entre deux pierres.
 Ils s'assoient en face de rectangles et tape sur la table avec leur doigts.
 
-# Reprise de "L'OS" une nouvelle écrite quand j'étais en prépa
+## Reprise de "L'OS" une nouvelle écrite quand j'étais en prépa
 Sur un site archéologique, aussi ancien que Gobekli Tepe, environ 10000 ans.
 Des pilliers de pierre. Des constructions concentriques.
 Les discussions sur la partie qui doit être fouillée.
@@ -327,6 +389,9 @@ Au centre ... un vaisseau spatial. Métal amorphe. Des signes inconnus. Le logo 
 Voir la page wikipedia au sujet des *paradoxes temporels* et des *voyages dans le temps*.
 Des exécutions, parce que c'est trop touchy, paradoxe du grand-père.
 Voire : une bombe atomique est détonnée sur le site, personne ne doit approcher.
+
+## Le parcours de minigolf du combatant
+minigolf et franchissement, soi-même et cette toute petite balle qu'il est interdit de toucher avec aure chose que le plat de ce club de golf.
 
 ## TITRES DE LIVRES
 * RADIO MOQUETTE

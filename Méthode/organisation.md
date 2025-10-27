@@ -24,6 +24,79 @@ Ce qui manque :
 
 * Faire apparaitre les commentaires en vert foncé
 
+{
+    "editor.renderWhitespace": "none",
+    "editor.wordWrap": "on",
+    "editor.rulers": [80,120],
+    "workbench.editor.enablePreview": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "todohighlight.include": [
+        "**/*.md"
+    ],
+    "todohighlight.keywords": [
+        {
+            "text": "DOUBLE_SPACE: OK",
+            "regex": {
+                "pattern": "[ ]{2,}"
+            },
+            "backgroundColor": "red",
+            "overviewRulerColor": "none"
+        },
+        {
+            "text": "DOUBLE_STAR_STRONG: OK",
+            "regex": {
+                "pattern": "(\\*\\*)(.*?)(\\*\\*)"
+            },
+            "color": "black",
+            "backgroundColor": "khaki",
+            "overviewRulerLane": 1,
+            "overviewRulerColor": "orange",
+            "outlineColor": "red",
+            "fontStyle": "normal"
+        },
+        {
+            "text": "SINGLE_STAR_ITALIC: OK",
+            "regex": {
+                "pattern": "[*](.*?)[*]"
+            },
+            "color": "lightcoral",
+            "backgroundColor": "none",
+            "overviewRulerColor": "none",
+            "fontStyle": "normal"
+        },
+        {
+            "text": "DOUBLE_QUOTES: OK",
+            "regex": {
+                "pattern": "[\"](.*?)[\"]"
+            },
+            "color": "gold",
+            "backgroundColor": "none",
+            "overviewRulerColor": "none"
+        },
+        {
+            "text": "DIALOG_LINE: NOT OK, SHOULD ALWAYS MATCH LINE START",
+            "regex": {
+                "pattern": "([-]{2,2}(.*))"
+            },
+            "color": "gold",
+            "backgroundColor": "none",
+            "overviewRulerColor": "none"
+        },
+        {
+            "text": "COMMENTS: OK BUT BETTER IF MATCH LINE START",
+            "regex": {
+                "pattern": "(\/\/(?<text>.+))"
+            },
+            "color": "green",
+            "backgroundColor": "none",
+            "overviewRulerColor": "none"
+        }
+    ],
+    "git.enabled": false
+}
 
 ## Gestion de version (Git)
 
