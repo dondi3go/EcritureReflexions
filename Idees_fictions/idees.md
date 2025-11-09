@@ -286,6 +286,14 @@ Refs :
 - La prose du monde, Merleau-Ponty ?
 - L'esprit du capitalisme ?
 
+C'est l'histoire de mon narrateur après qu'il ait posté son manuscrit à Alba Polti et qu'elle le reecoit.
+
+Il ne croit plus en rien. 
+Ou plutôt il croit que tout est une histoire.
+On peut croire que l'amour c'est comme une cigarette, ou qu'il demeurera à tout jamais un lien que rien ne viendra jamais rompre. C'est un choix. On peut croire l'un à midi, et l'autre à quatorze heure. Ou n'avoir jamais débattu avec soi-même et avoir adopté l'une ou l'autre par l'opération d'une chanteuse populaire ou d'un roman qui aura décrit une situation qui a des points commun avec une situation qu'on aurait vécu, et qu'on se sera laissé imprégné que c'est ainsi qu'il faut la lire, sans se rendre compte que le rapprochement est fortuit, et qu'à dix minutes près, en lisant une autre histoire, en tentendant d'autres paroles, on aurait été influencé.
+Deux personnes qui regardent les nuages et qui finissent par y voir la même chose, quand il n'y a que de la vapeur d'eau. C'est beau à pleurer. C'est con. C'est nul. Mais on n'a que ça. Fabrique un pays en inventant trois héros nationaux, qui coalisent des gens qui n'auraient jamais eu l'idée de partir en vacances ensemble, qui ne se supporteraient pas trois minutes autour d'une bière, mais qui d'un seul coup, se voient comme ayant quelque chose en commun. C'est incroyable. Maintenant au nom de cette histoire, tu vas envoyer tes enfants se faire arraché les deux jambes à la guerre. Les enfants du conteur, bien entendu, non, eux, ils sont indispensables à un poste où les obus ne tombent jamais. Il ne faut pas dire ces choses là. Qui raconte et qui écoute. Ceux qui ne gobent pas l'histoire sont des lâches. Tu veux faire partie de quelque chose ? Je te fafriquerai une grande famille. Les gauchers contre les droitiers. Les gros contre les maigres. Les garçons contre les filles. Les grands contre les petits. T'as pas à choisir, on t'a déjà assigné un camp, et malheur à toi si tu trahis en refusant la place qu'on a préparé pour toi. Pourquoi personne ne vomit ? Pourquoi après cinq mille ans de mensonges grossiers, il y en a encore pour remuer la cuillère en bois dans la gamelle en fer blanc. Et d'autre pour venir s'y baffrer. pour On a compris comment ça marche, c'est bon. Il serait temps de passer à autre chose.
+Elle lui répond qu'il croit au cynisme, ce qui est la même chose.
+
 ## L'Aquarium des petits dieux
 Quelqu'un qui explique aimer les maquettes. Dioramas. Modèles réduits.
 Miniatures. Maisons de poupée. Aquqarium ou vivarium ?
@@ -315,7 +323,11 @@ Puis un jour j'ai envie qu'il existe.
 Je le dessine, je ne suis pas satisfait du résultat. Je fais une maquette en papier.
 Effet surplombant. La maquette n'est pas très bonne.
 
-La progression : d'abord de petits paysages, puis des bonsais, puis des scènes, puis CRISPR pour rendre les bonzais plus intéressants (qqch que ne font pas les bonsais : le saule pleureur - avec une biyclette appuyée contre le tronc -, le mélèze), puis des champignons qui brillent dans le noir, et devant cette "crèche", des druides devant une pierre levée, dans le noir, avec les champignpn qui brillent. Les limites sont beaucoup plus éloignées. Des méduses qui brillent dans le noir, dans une citée engloutie. Des mondes miniatures. L'échelle ? Des boites sur les murs qui donnent sur d'autres mondes.
+La progression : d'abord de petits paysages, puis des bonsais, puis des scènes, puis CRISPR pour rendre les bonzais plus intéressants (qqch que ne font pas les bonsais : le saule pleureur - avec une biyclette appuyée contre le tronc -, le mélèze), puis des champignons qui brillent dans le noir, et devant cette "crèche", des druides devant une pierre levée, dans le noir, avec les champignpn qui brillent.
+
+Les champignons qui brillent se transforment en méduses. Qui sortent de l'aquarium et passent par la VMC.
+
+Les limites sont beaucoup plus éloignées. Des méduses qui brillent dans le noir, dans une citée engloutie. Des mondes miniatures. L'échelle ? Des boites sur les murs qui donnent sur d'autres mondes.
 
 Il crée un décors Arcadie, avec des ruines et des plantes. Rassurant, édénique.
 Du lierre miniature, qui change de couleur en couleur en fonction de latempérature.
