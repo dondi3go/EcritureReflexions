@@ -405,5 +405,17 @@ Voire : une bombe atomique est détonnée sur le site, personne ne doit approche
 ## Le parcours de minigolf du combatant
 minigolf et franchissement, soi-même et cette toute petite balle qu'il est interdit de toucher avec aure chose que le plat de ce club de golf.
 
+## Des vengeances sociales
+Une femme dans un epahd se venge de l'homme politique qui est indirectement responsable de la mort de sa fille.
+Un policier chargé de la protection d'une personnalité politique, organise son enlèvement, il avait été à l'origine du cancer de sa mère, il lui faire boire de la chlordécone.
+Un homme du SAMU est appelé pour sauver une personnalité politique qu'il considère responsable de
+la mort de sa femme et de son enfant (la maternité qu'il a fait fermer).
+Un autre tue un par un les députés qui ont voté une certaine loi.
+
+## Séduction Beat SAber
+Un type rencontre une femme, ils parlent Beat Saber, elle ne sait pas ce que c'est.
+Elle va chez lui, ils y jouent. Elle porte une robe pull, elle a chaud, elle l'nelève, 
+ele se retrouve en top et en collants à jouer à Beat Saber. Epuisés, ils s'endorment.
+
 ## TITRES DE LIVRES
 * RADIO MOQUETTE
