@@ -176,6 +176,17 @@ Mais ce n'était pas elle.
 -- La vulnérabilité, c'est ce qu'il y a de plus beau. On est pareils. A la fin. Pareils
 -- Tu sais ce qui retient de mettre dix ans sur table comme on étale ses lettres au scrabble ? La flippe.
 
+## Salon du livre (3)
+-- Je t'écoute
+-- ...
+-- Tu as peur ?
+-- ...
+-- Le pire est déjà arrivé. On s'est séparés. Sans se parler. On a été incapables de se dire quoi que soir ensuite. Je ne vois pas ce qui pourrait encore nous faire peur.
+-- Qu'on ne se parle toujours pas.
+-- On peut croire que l'amour c'est comme une cigarette, on peut croire aussi que l'amour qu'on a porté pour quelqu'un un jour, ne s'oublie pas. On ne s'en défait jamais.
+-- ...
+-- Tu es fragile ou sensible ? 
+
 ## Résidence d'auteur
 La résidence sert à sélectionner des auteurs pour déterminer celui qui a le profil pour ... (entendu dans une vidéo ou apparait un certain PATRICK PELLETIER). Les sujet proposés sont en fait des tests.
 
@@ -412,10 +423,20 @@ Un homme du SAMU est appelé pour sauver une personnalité politique qu'il consi
 la mort de sa femme et de son enfant (la maternité qu'il a fait fermer).
 Un autre tue un par un les députés qui ont voté une certaine loi.
 
-## Séduction Beat SAber
+## Séduction Beat Saber
 Un type rencontre une femme, ils parlent Beat Saber, elle ne sait pas ce que c'est.
 Elle va chez lui, ils y jouent. Elle porte une robe pull, elle a chaud, elle l'nelève, 
 ele se retrouve en top et en collants à jouer à Beat Saber. Epuisés, ils s'endorment.
+
+## Satire : L'armée des entrepreneurs
+Nous n'avons pas à nous inquiéter concernant la manace que POutine fait peser sur l'Europe, parce dans notre population une espèce d'homme et de femme qui dépasse. L'entrepreneur. L'entrepreneur n'est pas un homme ordinnaire. I se lève tôt, travaille sans rela^che.
+Il a une mentalité. Envoyer au front des entrepreneurs, c'est envoyer des personnes qui valent cent soldats ennemis. L'entrepreneur sauvera la France, sauvera l'Europe. Ceux qui prennent des risques. Le risque c'est son alimentation, sa motivation. Alors pensez-donc, ramper sous des chars, se faire torturer par l'armée russe affamée, l'entrepreneur rompu aux kanbans jira n'en a cure. Il en a vu d'autres.
+Voir Linked-In.
+Voir ce que Grock avait écrit au sujet d'Elon Musk.
+Les surhumains et les mâles alphas.
+
+## Satire : Ceux qui mangent avec un rateau
+A chacun selon ses besoins. Le besoin de Yacht. Et de résidences tertiaires. De loft New Yorkais. Ca ne l'effleure pas, le quidam, qu'on puisse vouloir aller à New York sur un coup de tête. Faire tout avec grandeur. QUant au reste, les impots, le cancer, il n'en a ni le temps ni la bassesse d'âme. Être d'une extrême sophistication. Qui a du gout. 
 
 ## TITRES DE LIVRES
 * RADIO MOQUETTE

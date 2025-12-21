@@ -29,6 +29,9 @@ Liste composée à partir d'un fil reddit sur les livres qui ont changé la vie.
 - Les 4 accords toltèques
 - **le pur et l'impur Jankélévitch** ... sur innéfable
 
+
+- Tongue: A Cognitive Hazard Broché, Édition en Anglais de Chase Hughes
+
 Et si je devais faire une liste ?
 Ma liste très personnelle ?
 - Stallone d'Emmanuel Berheim

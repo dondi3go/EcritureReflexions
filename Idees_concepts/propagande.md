@@ -139,9 +139,30 @@ Un personnage contemporain de Saint Paul, qui propose une autre vision du christ
 Epître de ?? (lui trouver un prénom).
 
 Et qui prophétise ce que sera l'institution.
-"Ceux qui aiment qu'existe des choses devant lesquelles se prosterner ,ceux qui inventerons des règles nouvelles et des manières inédites de punir ceux qui refuseront de les suivre".
+"Ceux qui aiment qu'existe des choses devant lesquelles se prosterner, ceux qui inventerons des règles nouvelles et des manières inédites de punir ceux qui refuseront de les suivre".
 
 "Avec Dieu sans maitres" pour reprendre un titre de vidéo Youtube.
 Jésus serait anarchiste ?
 
 Quels étaient les concurrents de Paul ?
+
+
+
+## Les grands récits de l'humanité
+Eglise (+ shisme), Communisme (+ shisme), Capitalisme (+ shisme)
+
+Eglise :
+- Evangélisation
+- Hérésies
+- Croisades
+
+Communisme
+- Pol pot
+- 
+
+Capitalisme
+- Pinochet
+- Franco
+- Indonésie
+
+Se faire une timeline pour les trois
